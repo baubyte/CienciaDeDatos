@@ -1,0 +1,801 @@
+region,nivel_educativo,tipo_empleo,tipo_vivienda,miembros_hogar,ingreso_mensual,gasto_alimentos,gasto_vivienda,gasto_salud,gasto_educacion,ahorro_mensual,acceso_servicios
+Pampeana,Terciario,Informal,Casa propia,2,206578,64267,48508,2057,7183.0,80011.0,4.5
+AMBA,Primario,Formal,Casa propia,4,387882,161228,103773,30527,871.0,79473.0,1.1
+AMBA,Secundario,Informal,Casa propia,2,154754,59114,62921,5487,13709.0,7046.0,3.2
+Patagonia,Terciario,Formal,Casa propia,3,382296,122628,83032,18048,23257.0,118640.0,1.9
+NEA,Secundario,Informal,Alquilada,3,132911,39275,15684,6392,17101.0,,1.9
+NEA,Terciario,Formal,Alquilada,5,310683,114483,43664,30841,22219.0,88965.0,4.1
+NOA,Universitario,Informal,Casa propia,6,273460,89648,84981,25323,11192.0,71705.0,4.0
+AMBA,Universitario,Cuentapropista,Casa propia,3,526540,234233,102730,54281,25444.0,113363.0,3.5
+Patagonia,Secundario,Informal,Asentamiento,3,291893,106189,81795,7762,20734.0,56564.0,3.7
+AMBA,Primario,Formal,Alquilada,2,112827,35903,31760,7043,10379.0,21652.0,0.0
+NOA,Universitario,Cuentapropista,Alquilada,6,377134,141447,71420,38386,,128268.0,4.1
+AMBA,Universitario,Formal,Casa propia,1,419881,107915,108414,47236,40597.0,108992.0,4.8
+AMBA,Primario,Formal,Alquilada,2,187125,83106,43732,5481,18437.0,15103.0,3.1
+Cuyo,Universitario,Formal,Casa propia,2,344333,101872,50612,40996,24129.0,160588.0,3.6
+NEA,Universitario,Formal,Alquilada,3,355748,119616,63926,34907,31186.0,103609.0,3.8
+NEA,Secundario,Formal,Asentamiento,2,158160,41247,45690,12872,3752.0,37145.0,1.8
+Pampeana,Secundario,Desocupado,Casa propia,5,60305,25454,28334,0,5632.0,3454.0,2.3
+Pampeana,Secundario,Formal,Casa propia,2,284523,112973,57141,25906,18849.0,68370.0,2.9
+Pampeana,Primario,Formal,Casa propia,4,99097,37843,17162,9961,,,2.0
+Cuyo,Secundario,Formal,Casa propia,2,197630,61436,38821,25216,19281.0,,3.0
+Patagonia,Universitario,Formal,Casa propia,1,509203,157820,112372,45189,24801.0,183777.0,3.7
+NEA,Sin instrucción,Informal,Casa propia,6,30712,15000,8199,5595,,-4645.0,0.9
+Cuyo,Secundario,Formal,Prestada,2,182147,70064,64305,14064,,-7894.0,2.3
+Pampeana,Secundario,Desocupado,Alquilada,5,41022,15000,17664,4343,0.0,9144.0,2.8
+Pampeana,Secundario,Informal,Casa propia,3,260942,101127,54796,19930,11846.0,82287.0,3.1
+AMBA,Universitario,Formal,Asentamiento,1,631296,265683,123749,72430,52740.0,107898.0,6.0
+NEA,Secundario,Informal,Casa propia,6,66677,22197,0,2577,1961.0,31256.0,1.7
+Pampeana,Secundario,Formal,Asentamiento,2,182335,59764,43289,7418,5426.0,100306.0,1.7
+Patagonia,Terciario,Informal,Casa propia,5,332844,104276,46091,29456,0.0,143148.0,3.7
+NOA,Secundario,Formal,Prestada,2,331411,81705,63881,32842,,120446.0,3.6
+Patagonia,Primario,Cuentapropista,Alquilada,5,88548,34731,31087,5056,7211.0,10840.0,1.0
+NEA,Secundario,Formal,Prestada,1,98313,41860,22830,9323,10944.0,21979.0,3.4
+NOA,Primario,Formal,Asentamiento,3,206986,63407,50205,24660,19739.0,56962.0,1.8
+AMBA,Primario,Cuentapropista,Casa propia,4,140948,47129,51149,7347,6502.0,-8200.0,0.8
+AMBA,Secundario,Cuentapropista,Asentamiento,6,144964,57097,25838,10496,6045.0,35577.0,2.7
+AMBA,Secundario,Informal,Casa propia,6,162712,68949,50414,7452,13883.0,,1.8
+Pampeana,Universitario,Formal,Casa propia,5,228572,66074,39996,15914,18312.0,93176.0,4.1
+NOA,Secundario,Informal,Casa propia,5,103425,29116,28279,7201,6312.0,13980.0,1.1
+AMBA,Secundario,Desocupado,Alquilada,2,54616,15000,17513,7691,3891.0,29157.0,2.0
+Pampeana,Terciario,Cuentapropista,Casa propia,2,350997,99349,65886,32033,32104.0,136098.0,4.2
+NEA,Sin instrucción,Formal,Alquilada,2,56658,32430,25786,1197,732.0,,0.8
+Pampeana,Terciario,Cuentapropista,Alquilada,3,272926,116275,75865,8967,8050.0,76961.0,3.8
+NOA,Primario,Formal,Prestada,3,89455,43680,22981,12022,8623.0,,1.2
+AMBA,Universitario,Formal,Prestada,3,598545,155901,172876,47632,3268.0,203052.0,4.5
+Cuyo,Primario,Informal,Casa propia,2,57792,32912,18067,0,6052.0,9093.0,0.0
+AMBA,Secundario,Cuentapropista,Casa propia,4,166425,66459,52783,20249,4687.0,52036.0,2.0
+Pampeana,Primario,Informal,Casa propia,2,62307,15000,13097,9799,978.0,33228.0,1.1
+Pampeana,Universitario,Cuentapropista,Casa propia,3,485074,175392,132879,31860,3446.0,,3.1
+Pampeana,Secundario,Cuentapropista,Casa propia,3,221229,59781,34575,26434,1819.0,102204.0,0.5
+NEA,Secundario,Formal,Casa propia,5,161055,62516,42285,2910,9572.0,64320.0,3.3
+AMBA,Primario,Informal,Casa propia,4,93466,36714,28069,904,,5631.0,1.0
+AMBA,Terciario,Formal,Asentamiento,4,239330,68969,39852,13896,,,3.3
+AMBA,Primario,Informal,Alquilada,2,84455,20616,17568,3913,3989.0,34717.0,1.5
+AMBA,Universitario,Formal,Casa propia,3,546113,156519,182632,66588,29172.0,101731.0,3.3
+Patagonia,Primario,Informal,Alquilada,1,230488,66273,68582,12955,24886.0,61415.0,0.7
+AMBA,Primario,Desocupado,Casa propia,3,23639,15000,6538,0,0.0,590.0,2.3
+NOA,Sin instrucción,Formal,Casa propia,3,122138,54197,22890,7966,4531.0,42204.0,0.0
+NEA,Secundario,Formal,Alquilada,1,233036,57689,74693,5910,17573.0,94286.0,2.0
+NOA,Secundario,Formal,Alquilada,2,192678,52318,34998,5876,,79434.0,1.6
+Pampeana,Primario,Formal,Casa propia,6,244056,82926,73826,16957,,,0.4
+Pampeana,Terciario,Formal,Asentamiento,6,375682,152996,97852,38543,,54322.0,4.4
+Cuyo,Secundario,Formal,Prestada,3,218474,68382,58800,16484,2019.0,75840.0,0.0
+AMBA,Secundario,Cuentapropista,Alquilada,1,185126,52844,44397,17212,5060.0,65381.0,1.8
+Pampeana,Secundario,Formal,Alquilada,2,311796,110986,88934,33922,151.0,63093.0,2.6
+Cuyo,Secundario,Desocupado,Alquilada,3,56275,18721,12455,6781,3432.0,36707.0,3.8
+Pampeana,Secundario,Cuentapropista,Casa propia,6,141735,36837,50377,13996,8636.0,60100.0,1.0
+NEA,Primario,Informal,Casa propia,2,45236,21993,17855,2500,0.0,11091.0,0.0
+AMBA,Primario,Desocupado,Casa propia,4,31050,15000,0,338,0.0,24684.0,0.0
+NOA,Universitario,Informal,Alquilada,2,189638,69724,29458,11381,14713.0,,4.5
+AMBA,Universitario,Cuentapropista,Alquilada,7,430615,168170,98505,20385,16754.0,,4.3
+AMBA,Secundario,Formal,Casa propia,3,344406,136143,78617,20048,2244.0,70707.0,1.0
+NEA,Secundario,Cuentapropista,Asentamiento,5,119263,40680,13130,5005,4296.0,56094.0,2.2
+NOA,Terciario,Cuentapropista,Asentamiento,3,215336,71431,35493,24657,10826.0,64340.0,4.6
+AMBA,Secundario,Cuentapropista,Alquilada,4,191403,57984,54386,12187,7404.0,61629.0,2.5
+AMBA,Sin instrucción,Cuentapropista,Alquilada,2,107832,29921,24478,4642,2896.0,,0.3
+AMBA,Primario,Formal,Prestada,2,80726,35127,34316,8012,258.0,3299.0,1.1
+AMBA,Terciario,Informal,Casa propia,6,179723,76170,61898,15199,16277.0,4772.0,3.4
+NOA,Terciario,Formal,Prestada,6,293549,124784,47207,17551,27102.0,55856.0,1.9
+Pampeana,Sin instrucción,Informal,Casa propia,5,80268,31388,23350,8105,1082.0,14704.0,0.0
+NEA,Primario,Formal,Prestada,4,99395,23532,25007,8465,4036.0,48439.0,0.7
+AMBA,Primario,Formal,Casa propia,5,90212,36155,14992,1624,,19985.0,0.4
+Patagonia,Terciario,Desocupado,Prestada,1,105378,41805,33835,5374,,-11039.0,3.6
+Pampeana,Sin instrucción,Formal,Asentamiento,3,79340,32244,5305,4794,4174.0,66937.0,0.0
+NOA,Primario,Cuentapropista,Casa propia,3,65421,24383,15996,2820,4776.0,22474.0,0.5
+Pampeana,Terciario,Informal,Alquilada,4,162522,59863,46296,15024,,30603.0,1.7
+Pampeana,Primario,Cuentapropista,Asentamiento,3,107861,32644,19998,12043,4509.0,59532.0,1.3
+AMBA,Terciario,Cuentapropista,Alquilada,2,244052,105488,68132,12321,13996.0,46237.0,4.0
+Patagonia,Primario,Formal,Prestada,4,92878,32010,24989,0,8781.0,47078.0,0.6
+AMBA,Primario,Formal,Alquilada,5,207316,79150,78932,8614,15753.0,43562.0,1.9
+Pampeana,Primario,Cuentapropista,Casa propia,3,167111,61932,27320,9626,0.0,49115.0,0.9
+NEA,Terciario,Informal,Casa propia,2,190648,56946,43289,11232,5323.0,80758.0,0.5
+AMBA,Universitario,Formal,Casa propia,2,394091,144316,106841,22944,,,4.0
+AMBA,Universitario,Formal,Prestada,2,521881,160010,188409,43961,17153.0,97368.0,4.1
+Patagonia,Secundario,Informal,Casa propia,2,157192,72467,33918,11076,7588.0,17347.0,2.3
+AMBA,Terciario,Formal,Alquilada,4,442332,113288,100842,26255,,151374.0,3.6
+Pampeana,Primario,Informal,Alquilada,4,102649,33418,27378,7187,8540.0,39482.0,0.2
+Pampeana,Secundario,Informal,Alquilada,4,101092,31582,10061,53,10916.0,52746.0,3.6
+Pampeana,Universitario,Informal,Prestada,3,301322,121586,86917,17310,9988.0,36484.0,3.9
+NOA,Sin instrucción,Desocupado,Asentamiento,5,18811,15000,11226,0,,-3977.0,0.0
+NEA,Primario,Formal,Casa propia,2,178291,53656,31679,3531,,70738.0,1.8
+NOA,Primario,Desocupado,Prestada,3,30390,15000,0,0,,13534.0,0.9
+Patagonia,Sin instrucción,Formal,Prestada,5,152050,67963,43104,10228,12858.0,5342.0,2.8
+Pampeana,Primario,Formal,Alquilada,2,147667,43372,50411,14566,1973.0,42569.0,0.8
+Pampeana,Secundario,Formal,Asentamiento,2,329777,99121,68003,31972,23276.0,123162.0,2.8
+AMBA,Secundario,Formal,Casa propia,5,268679,110867,58987,11569,16375.0,61252.0,1.6
+Cuyo,Universitario,Informal,Casa propia,3,204362,69299,67560,20813,5715.0,15738.0,4.7
+Pampeana,Universitario,Formal,Prestada,4,767845,329760,123554,72554,49817.0,187613.0,4.9
+AMBA,Secundario,Informal,Casa propia,1,170880,44940,34169,15079,10079.0,77957.0,1.9
+Cuyo,Secundario,Formal,Prestada,4,170205,67700,51089,17585,,24689.0,1.3
+NOA,Secundario,Formal,Prestada,3,153389,42378,43904,14171,926.0,29547.0,0.9
+Cuyo,Secundario,Informal,Casa propia,1,123952,32750,25604,7144,3400.0,66503.0,2.6
+NEA,Secundario,Informal,Prestada,4,115827,50079,27361,12099,3459.0,44059.0,0.8
+AMBA,Terciario,Cuentapropista,Casa propia,2,310441,115429,75398,26479,25084.0,68351.0,4.5
+AMBA,Secundario,Formal,Alquilada,3,260859,110588,61952,16509,,22746.0,1.1
+Patagonia,Secundario,Informal,Alquilada,1,262280,85793,62852,19532,13546.0,75790.0,2.2
+AMBA,Secundario,Desocupado,Asentamiento,2,68268,17300,19344,7733,,18792.0,1.2
+AMBA,Secundario,Informal,Casa propia,2,146758,48080,32625,18925,6317.0,28665.0,2.2
+NEA,Universitario,Formal,Alquilada,1,534764,243892,85996,63974,41583.0,108070.0,4.3
+AMBA,Terciario,Desocupado,Alquilada,6,56489,15000,6899,4317,0.0,16661.0,3.3
+Pampeana,Primario,Informal,Alquilada,1,800348,249377,151975,92133,,278419.0,0.3
+AMBA,Universitario,Informal,Alquilada,3,556508,178393,147529,24028,35314.0,167819.0,3.5
+AMBA,Secundario,Informal,Casa propia,2,129824,38342,18472,6819,0.0,75429.0,3.1
+Pampeana,Universitario,Formal,Casa propia,3,390835,118030,110974,34071,27756.0,99790.0,4.8
+NEA,Terciario,Informal,Casa propia,6,128940,51651,52049,9649,9029.0,3615.0,0.5
+Cuyo,Secundario,Formal,Prestada,2,140194,36660,35008,12614,2425.0,41444.0,2.6
+Pampeana,Sin instrucción,Informal,Casa propia,6,44253,19037,20354,6311,3244.0,-4171.0,0.0
+AMBA,Secundario,Formal,Casa propia,2,212605,47897,32357,12493,,96818.0,1.7
+AMBA,Secundario,Desocupado,Asentamiento,4,32470,15000,0,1898,1291.0,1223.0,1.8
+NOA,Terciario,Cuentapropista,Casa propia,3,219144,107294,39667,23682,7072.0,,4.6
+Pampeana,Secundario,Formal,Asentamiento,5,283146,83594,88340,11945,,95887.0,1.3
+Pampeana,Primario,Formal,Alquilada,4,109671,44250,29018,4354,9658.0,17315.0,0.0
+Cuyo,Universitario,Formal,Prestada,3,715514,250708,128099,35680,37673.0,277328.0,5.0
+NEA,Universitario,Formal,Casa propia,2,469971,201424,78095,24573,7371.0,162468.0,4.2
+Pampeana,Secundario,Formal,Casa propia,2,294257,110628,78395,26262,8707.0,51007.0,3.6
+AMBA,Primario,Informal,Alquilada,6,75851,17794,19383,5721,7149.0,45865.0,0.5
+Pampeana,Secundario,Cuentapropista,Prestada,3,220969,64844,48405,17047,18281.0,83897.0,3.5
+Pampeana,Sin instrucción,Formal,Alquilada,3,69184,28342,24056,3292,6574.0,21947.0,0.1
+AMBA,Universitario,Informal,Casa propia,4,422405,108464,135292,46981,33885.0,103791.0,4.7
+Pampeana,Primario,Formal,Prestada,3,2058263,563487,473495,128715,193587.0,,5.0
+AMBA,Secundario,Formal,Prestada,6,280497,81450,84426,31808,8206.0,90996.0,2.2
+AMBA,Secundario,Cuentapropista,Alquilada,4,132197,52001,35698,14862,11704.0,18844.0,3.2
+Cuyo,Secundario,Formal,Prestada,4,148621,50828,40973,6672,0.0,55446.0,1.6
+Pampeana,Terciario,Cuentapropista,Prestada,5,318195,90847,84094,34222,20533.0,96605.0,3.4
+Pampeana,Universitario,Informal,Alquilada,1,221202,62198,27924,15880,11355.0,132889.0,2.4
+Cuyo,Primario,Formal,Casa propia,2,148921,52457,39101,10137,3853.0,35180.0,0.5
+NOA,Sin instrucción,Formal,Alquilada,3,52235,15000,7036,0,4886.0,17507.0,0.0
+Patagonia,Primario,Informal,Casa propia,2,135424,41459,49613,19315,10857.0,,2.2
+Pampeana,Universitario,Informal,Casa propia,4,203125,58455,65846,11448,,50138.0,5.6
+NOA,Universitario,Cuentapropista,Casa propia,6,386140,169145,114971,18939,23213.0,44099.0,3.7
+Cuyo,Secundario,Informal,Casa propia,3,136812,53572,36787,4831,3647.0,10199.0,1.4
+AMBA,Terciario,Formal,Casa propia,3,299882,92196,97213,28746,14676.0,73451.0,1.9
+Cuyo,Terciario,Informal,Casa propia,6,210053,67790,51267,17737,17956.0,85120.0,3.3
+NEA,Primario,Informal,Prestada,3,72661,24833,23882,12965,2144.0,39611.0,0.3
+Pampeana,Universitario,Informal,Asentamiento,3,250117,103595,88340,14125,24427.0,6844.0,3.4
+AMBA,Secundario,Desocupado,Casa propia,3,36577,15000,6979,6199,,4317.0,3.7
+Cuyo,Secundario,Cuentapropista,Asentamiento,6,85414,24482,32472,9015,9841.0,28104.0,1.8
+AMBA,Secundario,Desocupado,Alquilada,4,54974,18848,0,0,3744.0,38867.0,2.7
+AMBA,Sin instrucción,Formal,Casa propia,4,66037,20125,29801,3895,0.0,14234.0,0.1
+Cuyo,Primario,Informal,Casa propia,5,77794,23607,20595,13621,4921.0,11199.0,0.0
+AMBA,Terciario,Formal,Alquilada,3,341513,144490,48363,15848,27007.0,123480.0,1.4
+Pampeana,Primario,Formal,Prestada,3,176542,65563,45522,16215,15536.0,17610.0,1.5
+Patagonia,Terciario,Cuentapropista,Alquilada,5,303696,125705,29027,27480,10238.0,118459.0,4.9
+Patagonia,Primario,Informal,Casa propia,3,95119,47645,8753,7306,1938.0,,1.2
+Pampeana,Secundario,Formal,Casa propia,5,269034,88248,70468,28701,2182.0,80086.0,3.0
+NOA,Secundario,Informal,Casa propia,6,114245,35822,45578,12287,,29614.0,1.2
+AMBA,Secundario,Formal,Casa propia,4,261239,106689,90364,6341,14995.0,43356.0,3.3
+Pampeana,Terciario,Formal,Casa propia,4,386794,173033,114458,45579,4370.0,41336.0,4.3
+NEA,Secundario,Formal,Casa propia,5,109013,55683,21918,11764,6715.0,14321.0,1.4
+NOA,Secundario,Formal,Prestada,5,222264,89713,44273,24480,17963.0,21953.0,2.8
+Patagonia,Secundario,Formal,Asentamiento,3,324460,97229,42777,29797,29789.0,134059.0,0.6
+AMBA,Terciario,Formal,Casa propia,1,272439,115421,41764,27013,22333.0,,3.9
+NOA,Universitario,Cuentapropista,Asentamiento,3,304079,80558,75309,14095,27886.0,96382.0,3.4
+Pampeana,Terciario,Cuentapropista,Casa propia,4,262882,102895,72720,16493,14155.0,43201.0,1.9
+Cuyo,Primario,Desocupado,Alquilada,3,25932,15258,3342,0,0.0,-1964.0,1.2
+Patagonia,Sin instrucción,Cuentapropista,Casa propia,4,105008,30070,25726,3462,9262.0,35543.0,0.0
+NEA,Secundario,Formal,Alquilada,3,265481,103066,68611,7147,15521.0,74374.0,2.7
+AMBA,Secundario,Formal,Asentamiento,4,328691,110603,51665,30450,,156840.0,1.3
+Pampeana,Primario,Formal,Alquilada,2,97139,21142,5537,8789,,79639.0,0.0
+AMBA,Secundario,Informal,Casa propia,4,167037,49256,53393,9297,16734.0,50830.0,2.3
+NEA,Secundario,Cuentapropista,Alquilada,3,203812,83693,59187,19905,17872.0,24974.0,2.1
+Pampeana,Secundario,Informal,Casa propia,2,141504,59841,33911,13667,11017.0,9164.0,3.6
+NEA,Terciario,Cuentapropista,Prestada,2,295198,116607,46490,22857,19904.0,114535.0,1.9
+AMBA,Primario,Formal,Alquilada,4,289688,89152,105601,28000,26631.0,36589.0,2.5
+AMBA,Primario,Formal,Casa propia,3,215344,92357,32229,13551,1609.0,79819.0,0.0
+Cuyo,Terciario,Formal,Alquilada,2,325885,131754,39713,18061,,122833.0,4.1
+AMBA,Secundario,Cuentapropista,Alquilada,6,257366,74989,87346,14768,7463.0,73724.0,3.4
+AMBA,Terciario,Formal,Casa propia,4,386019,104357,84586,30777,25442.0,,3.6
+Patagonia,Secundario,Formal,Alquilada,6,271943,91736,91607,24980,19254.0,51197.0,1.6
+Pampeana,Primario,Informal,Casa propia,3,75595,29015,19282,9053,2324.0,30751.0,0.0
+Cuyo,Universitario,Formal,Alquilada,3,725049,281414,201575,67629,15387.0,165754.0,2.6
+NOA,Terciario,Informal,Prestada,5,125730,51557,44366,11162,4127.0,13950.0,4.8
+AMBA,Terciario,Formal,Prestada,3,585304,172081,119795,56835,5938.0,,3.2
+AMBA,Secundario,Formal,Alquilada,4,276041,119788,83623,18476,6511.0,46709.0,1.2
+Patagonia,Secundario,Formal,Alquilada,2,177440,47316,32599,7321,10866.0,60074.0,1.1
+Pampeana,Secundario,Informal,Casa propia,3,140693,49117,41701,13491,2383.0,18989.0,2.3
+Pampeana,Primario,Informal,Prestada,2,44737,15445,2153,3346,1647.0,33254.0,0.5
+AMBA,Universitario,Formal,Casa propia,2,668836,182770,132310,35187,62735.0,236943.0,2.5
+AMBA,Primario,Informal,Alquilada,1,120506,50801,24660,6002,3749.0,29231.0,1.8
+AMBA,Universitario,Informal,Casa propia,1,270747,88321,52146,20689,10138.0,83701.0,4.3
+AMBA,Secundario,Informal,Casa propia,7,143834,53174,46840,14442,9219.0,,4.0
+Patagonia,Primario,Desocupado,Alquilada,2,67396,22177,13246,8091,4255.0,17298.0,2.0
+NOA,Secundario,Formal,Casa propia,4,152186,63470,34171,4355,13806.0,30290.0,0.0
+NEA,Universitario,Formal,Alquilada,5,293466,78171,67090,21063,27768.0,77949.0,5.4
+AMBA,Terciario,Informal,Casa propia,4,336273,87757,59289,28858,29062.0,128524.0,4.4
+Patagonia,Universitario,Formal,Casa propia,2,1135123,494661,324278,75382,24889.0,201530.0,4.3
+NOA,Terciario,Cuentapropista,Alquilada,4,218362,65382,76645,15587,,50370.0,2.6
+NEA,Terciario,Formal,Casa propia,4,364092,152260,82933,40706,15711.0,83590.0,3.7
+AMBA,Universitario,Informal,Casa propia,4,483636,220879,141998,49048,3967.0,82075.0,3.2
+NOA,Primario,Informal,Alquilada,4,55126,15000,15360,2592,7912.0,-5403.0,0.6
+NEA,Secundario,Informal,Casa propia,7,87143,30486,15061,1785,,55222.0,3.1
+Pampeana,Primario,Formal,Prestada,4,208320,76962,56025,13116,0.0,54566.0,1.6
+AMBA,Universitario,Cuentapropista,Casa propia,3,727618,319025,185834,81309,61615.0,70820.0,3.8
+AMBA,Universitario,Informal,Casa propia,4,1941197,833219,554291,234683,47157.0,258472.0,7.1
+Cuyo,Sin instrucción,Informal,Alquilada,1,38708,15000,22971,1539,878.0,-841.0,0.4
+AMBA,Terciario,Informal,Casa propia,5,391327,155984,94320,37438,26839.0,106469.0,3.6
+Cuyo,Universitario,Desocupado,Casa propia,2,80585,20330,25934,4636,5561.0,1029.0,3.2
+Pampeana,Primario,Informal,Casa propia,3,75965,36901,24062,5577,2420.0,-23848.0,0.9
+AMBA,Secundario,Cuentapropista,Casa propia,5,1683858,737103,419599,51930,,469108.0,3.3
+Patagonia,Universitario,Formal,Prestada,4,1004222,274066,269641,72499,41058.0,355498.0,2.9
+AMBA,Sin instrucción,Formal,Casa propia,3,136435,38534,30746,8379,11579.0,47987.0,0.0
+AMBA,Terciario,Informal,Prestada,3,244175,68241,72071,11269,20332.0,81199.0,3.0
+Patagonia,Secundario,Informal,Prestada,5,180985,56526,51955,20292,,24312.0,2.4
+NOA,Universitario,Formal,Casa propia,3,418710,169182,70293,23530,16449.0,125083.0,5.3
+Pampeana,Universitario,Cuentapropista,Asentamiento,5,471728,159471,97656,36170,35074.0,145216.0,3.5
+Cuyo,Universitario,Formal,Casa propia,1,212374,53556,57567,7275,20925.0,99422.0,3.5
+Cuyo,Secundario,Formal,Asentamiento,5,177849,58947,19789,5405,5962.0,96156.0,3.0
+AMBA,Universitario,Informal,Casa propia,5,347681,153348,43810,16670,14055.0,128906.0,3.3
+Pampeana,Universitario,Desocupado,Alquilada,2,74341,23604,19529,1052,2470.0,11581.0,3.8
+AMBA,Secundario,Cuentapropista,Alquilada,3,211214,67358,39899,17574,12835.0,79884.0,1.9
+Patagonia,Universitario,Informal,Casa propia,2,345635,101591,67929,16403,3788.0,138192.0,3.8
+AMBA,Sin instrucción,Desocupado,Alquilada,4,37251,18465,0,9792,422.0,,0.8
+Pampeana,Secundario,Formal,Alquilada,3,346258,148250,55615,14179,8302.0,104733.0,2.1
+Patagonia,Primario,Formal,Casa propia,4,156525,49748,51249,12801,7883.0,22897.0,1.8
+Pampeana,Primario,Formal,Casa propia,2,137629,28280,36241,16656,,28692.0,0.0
+NEA,Primario,Cuentapropista,Alquilada,2,89199,33882,9978,0,,37640.0,0.0
+AMBA,Terciario,Formal,Alquilada,1,322765,90338,64343,18827,16151.0,133763.0,0.9
+Cuyo,Secundario,Informal,Asentamiento,3,120233,46597,42763,6365,1927.0,45280.0,1.0
+NOA,Terciario,Formal,Prestada,4,219461,93747,43578,17813,7536.0,68433.0,4.9
+Patagonia,Primario,Cuentapropista,Asentamiento,5,101510,41028,9276,4943,13361.0,21040.0,0.9
+NEA,Secundario,Informal,Alquilada,4,121505,45395,29314,6604,0.0,53293.0,1.4
+AMBA,Secundario,Formal,Casa propia,3,286990,100390,89029,22695,11855.0,,3.1
+AMBA,Terciario,Formal,Casa propia,6,290361,103341,93645,30442,6109.0,,4.1
+AMBA,Secundario,Formal,Prestada,4,310814,126585,92144,24902,28596.0,40364.0,1.2
+Pampeana,Terciario,Formal,Alquilada,6,278005,73776,91016,19452,11720.0,65063.0,5.6
+NOA,Universitario,Desocupado,Casa propia,3,92894,31319,17094,5598,1383.0,53470.0,4.0
+AMBA,Terciario,Informal,Casa propia,2,275759,110875,65627,37902,8065.0,,3.5
+Pampeana,Primario,Informal,Asentamiento,1,83157,26079,32887,7036,9530.0,3207.0,1.4
+AMBA,Sin instrucción,Informal,Alquilada,4,70604,28878,0,3536,2494.0,,0.6
+AMBA,Universitario,Cuentapropista,Casa propia,2,375907,139788,102740,39231,25285.0,66919.0,3.5
+AMBA,Sin instrucción,Formal,Alquilada,3,99556,42104,27274,7385,9392.0,5040.0,2.2
+Cuyo,Universitario,Informal,Casa propia,3,248753,88788,67683,27419,23048.0,45741.0,3.6
+Pampeana,Secundario,Cuentapropista,Casa propia,4,136687,47856,38836,14995,6632.0,8532.0,3.1
+AMBA,Universitario,Cuentapropista,Casa propia,4,416231,136591,91372,20400,39828.0,,3.6
+Pampeana,Terciario,Cuentapropista,Casa propia,2,167153,75375,48490,15020,,56033.0,2.4
+NEA,Universitario,Cuentapropista,Prestada,3,275468,99745,79814,15771,10170.0,39936.0,5.8
+Patagonia,Secundario,Informal,Casa propia,4,144599,52450,44136,7568,10345.0,12570.0,2.1
+AMBA,Terciario,Cuentapropista,Prestada,6,270955,100077,60874,9918,7042.0,,3.1
+AMBA,Secundario,Formal,Prestada,4,220995,84770,78850,28953,,30389.0,2.6
+Patagonia,Secundario,Cuentapropista,Casa propia,6,209826,82718,48387,12819,5462.0,73796.0,4.9
+NOA,Terciario,Formal,Alquilada,4,318140,101190,100677,6632,16351.0,105439.0,5.4
+Patagonia,Universitario,Cuentapropista,Alquilada,4,648369,182226,165095,61878,26150.0,187644.0,5.7
+AMBA,Universitario,Formal,Prestada,2,456212,123877,123669,16677,33076.0,148798.0,7.0
+NEA,Terciario,Informal,Casa propia,4,109291,23580,30811,2824,11646.0,26925.0,2.0
+Pampeana,Secundario,Formal,Alquilada,4,158011,66259,55250,3672,14018.0,17834.0,2.9
+AMBA,Secundario,Desocupado,Alquilada,4,42769,15000,22940,2592,507.0,2004.0,2.1
+AMBA,Terciario,Desocupado,Casa propia,3,69285,18519,16148,302,5028.0,8750.0,1.1
+AMBA,Primario,Informal,Casa propia,3,73342,34001,3273,3660,1195.0,24620.0,1.4
+AMBA,Primario,Informal,Alquilada,3,62633,15933,34428,9397,,11583.0,0.4
+Pampeana,Secundario,Informal,Alquilada,3,109886,48129,39427,7897,2564.0,2444.0,3.7
+Cuyo,Secundario,Formal,Casa propia,2,205274,50810,56544,12612,15840.0,66464.0,1.9
+AMBA,Secundario,Cuentapropista,Alquilada,5,224861,98076,44371,10556,1173.0,96138.0,1.8
+AMBA,Primario,Informal,Casa propia,2,78171,29574,706,7036,,70705.0,2.4
+AMBA,Sin instrucción,Formal,Alquilada,1,93294,38540,30360,5991,4812.0,,0.1
+AMBA,Sin instrucción,Cuentapropista,Casa propia,3,63309,27835,13344,5100,2419.0,16319.0,1.2
+Pampeana,Universitario,Formal,Prestada,4,499269,196020,92278,18033,30838.0,205855.0,4.7
+Pampeana,Secundario,Formal,Casa propia,3,167461,44428,22741,14962,16854.0,75659.0,2.6
+AMBA,Secundario,Formal,Casa propia,2,282175,74303,85850,11647,18750.0,91902.0,2.1
+Patagonia,Terciario,Formal,Casa propia,4,245794,62896,41986,16394,3663.0,140545.0,3.6
+AMBA,Primario,Informal,Casa propia,3,82950,31345,38306,10658,,4201.0,0.8
+AMBA,Universitario,Formal,Alquilada,6,606812,202144,126045,55263,,175265.0,3.6
+AMBA,Terciario,Formal,Casa propia,6,390556,137744,101851,22201,0.0,125605.0,3.2
+Pampeana,Primario,Cuentapropista,Prestada,3,255727,69971,89270,15022,27418.0,57099.0,2.4
+Pampeana,Secundario,Formal,Casa propia,3,239899,72208,70846,7738,,91335.0,2.8
+NOA,Universitario,Cuentapropista,Casa propia,4,242086,91802,62295,25655,,53486.0,4.7
+Patagonia,Universitario,Informal,Casa propia,1,357124,111823,102499,34409,12473.0,89444.0,4.1
+NOA,Secundario,Formal,Casa propia,3,103955,43897,31035,9454,,,0.2
+Pampeana,Terciario,Informal,Casa propia,3,191318,62873,45902,20181,12078.0,21372.0,1.8
+Pampeana,Primario,Informal,Casa propia,6,65425,26079,23517,8375,,,0.6
+Cuyo,Universitario,Formal,Alquilada,1,596950,214463,178226,65991,20978.0,,3.2
+Patagonia,Primario,Desocupado,Casa propia,4,31800,15000,16228,6246,3871.0,,0.3
+NOA,Universitario,Informal,Alquilada,4,232781,67731,45750,12104,17445.0,74800.0,3.3
+NOA,Terciario,Formal,Alquilada,3,227692,84018,24340,15614,5801.0,69361.0,2.6
+AMBA,Terciario,Cuentapropista,Casa propia,1,492977,209632,64910,48027,4513.0,163759.0,4.9
+Pampeana,Secundario,Informal,Alquilada,7,114424,34773,23475,13461,,54143.0,2.1
+NEA,Primario,Formal,Asentamiento,3,1671515,506405,510754,84767,,543753.0,3.8
+Pampeana,Primario,Formal,Alquilada,4,183839,76311,43952,19397,,8700.0,1.2
+AMBA,Primario,Formal,Alquilada,2,183047,66539,59874,22711,6649.0,18431.0,2.4
+Cuyo,Primario,Informal,Casa propia,3,84443,27026,9269,4981,3206.0,44853.0,1.9
+Patagonia,Terciario,Formal,Prestada,3,472668,165973,101672,46755,8339.0,168566.0,2.8
+NOA,Secundario,Cuentapropista,Prestada,1,78642,27448,7321,8178,,29172.0,4.1
+NOA,Primario,Formal,Alquilada,2,108603,39505,25270,4316,0.0,55335.0,0.5
+Pampeana,Universitario,Informal,Asentamiento,5,378845,115873,60909,17955,3148.0,195121.0,4.3
+Pampeana,Universitario,Cuentapropista,Casa propia,2,393190,181592,137311,22400,,32989.0,4.5
+Patagonia,Universitario,Informal,Casa propia,2,241089,78935,49230,20538,23610.0,87537.0,4.4
+AMBA,Universitario,Formal,Prestada,3,545752,190777,180956,51895,,122437.0,5.1
+AMBA,Primario,Informal,Prestada,4,154063,55827,24184,17010,,,0.2
+Pampeana,Secundario,Desocupado,Casa propia,1,65414,27554,31270,9719,1620.0,21663.0,2.8
+Pampeana,Terciario,Formal,Casa propia,4,329808,132840,85337,10231,,98638.0,3.8
+AMBA,Terciario,Formal,Casa propia,2,491694,170388,165928,25042,25539.0,75645.0,3.4
+Cuyo,Primario,Informal,Casa propia,1,67728,15000,23036,4603,3158.0,11337.0,0.7
+Pampeana,Universitario,Formal,Prestada,1,302298,116700,97849,15916,27866.0,29680.0,3.2
+NOA,Primario,Cuentapropista,Alquilada,5,70839,20123,26992,7893,,4718.0,1.4
+NOA,Primario,Desocupado,Casa propia,2,39315,15000,6977,392,1744.0,8524.0,0.2
+AMBA,Secundario,Formal,Casa propia,1,218851,76794,36942,12650,13782.0,74822.0,2.5
+AMBA,Secundario,Formal,Casa propia,3,220870,72451,53806,16481,8952.0,64755.0,2.2
+AMBA,Secundario,Formal,Casa propia,5,217161,95013,76381,20953,7291.0,16061.0,0.9
+Pampeana,Primario,Cuentapropista,Alquilada,2,201833,59852,65860,12573,22109.0,,0.1
+NEA,Universitario,Formal,Asentamiento,3,656695,281219,187566,49169,,88106.0,4.8
+NEA,Secundario,Formal,Prestada,1,336221,118156,62245,23138,15276.0,135121.0,1.9
+Cuyo,Primario,Formal,Casa propia,3,123562,36707,1328,19397,2496.0,45256.0,0.4
+Pampeana,Universitario,Formal,Prestada,4,550740,194346,164232,27284,,171334.0,3.5
+AMBA,Universitario,Informal,Prestada,4,205182,55142,48863,22320,17743.0,,3.1
+AMBA,Universitario,Formal,Prestada,3,863477,277322,244734,79212,28560.0,230989.0,6.3
+Cuyo,Universitario,Formal,Alquilada,3,319540,86430,109791,25503,11218.0,89500.0,2.9
+AMBA,Terciario,Cuentapropista,Casa propia,2,312261,115790,58535,33188,3304.0,86924.0,4.7
+AMBA,Secundario,Informal,Casa propia,3,99723,32205,18715,4899,5399.0,30828.0,1.8
+Patagonia,Primario,Formal,Casa propia,1,150852,49064,38424,9401,0.0,77478.0,0.3
+Patagonia,Secundario,Formal,Casa propia,4,210028,55294,50280,5840,18932.0,90909.0,2.6
+Pampeana,Secundario,Formal,Casa propia,6,179993,54136,38735,20456,2202.0,,2.3
+Cuyo,Secundario,Informal,Alquilada,7,96465,35977,18263,9664,8112.0,-4621.0,1.9
+Pampeana,Terciario,Formal,Alquilada,5,285040,114889,58206,13872,20857.0,66469.0,3.4
+AMBA,Secundario,Formal,Alquilada,4,305084,115545,81981,22681,,105783.0,2.4
+NOA,Primario,Formal,Casa propia,4,84767,33654,20880,4554,6184.0,25657.0,0.7
+NEA,Primario,Formal,Asentamiento,2,123080,39913,19730,6758,5248.0,59465.0,1.9
+NOA,Terciario,Formal,Asentamiento,4,397044,105391,118534,37762,9920.0,127995.0,1.9
+NOA,Primario,Cuentapropista,Prestada,3,80141,43025,6184,6469,7221.0,8047.0,0.0
+AMBA,Universitario,Informal,Asentamiento,3,260738,98128,61459,13881,7200.0,85058.0,3.1
+AMBA,Secundario,Cuentapropista,Alquilada,4,175531,51379,37600,15355,8712.0,39532.0,1.2
+Pampeana,Secundario,Formal,Asentamiento,2,307722,112199,85130,28719,7927.0,49665.0,2.5
+NOA,Secundario,Informal,Casa propia,3,109515,39044,24887,6142,9119.0,19294.0,2.6
+Pampeana,Universitario,Informal,Casa propia,6,250690,113329,67875,12480,24754.0,,2.0
+Pampeana,Secundario,Formal,Casa propia,1,249745,71262,59399,15489,8088.0,71962.0,1.8
+NEA,Terciario,Cuentapropista,Casa propia,3,152882,55413,32847,19487,14923.0,32118.0,2.7
+Pampeana,Secundario,Formal,Casa propia,6,264988,81950,48053,27014,24535.0,68518.0,2.0
+Pampeana,Secundario,Cuentapropista,Alquilada,4,193300,79364,67383,20784,1988.0,10884.0,1.0
+Patagonia,Universitario,Formal,Prestada,3,574429,227487,193046,19070,9958.0,144362.0,4.0
+Patagonia,Terciario,Formal,Alquilada,2,326581,129064,79813,21916,30745.0,65602.0,2.3
+NOA,Terciario,Informal,Casa propia,3,123182,45179,26339,16316,1660.0,20131.0,2.6
+Pampeana,Universitario,Formal,Prestada,5,591713,253669,108483,22016,0.0,210348.0,2.6
+Patagonia,Universitario,Formal,Alquilada,4,910883,237623,210940,109139,27386.0,303751.0,4.4
+Pampeana,Terciario,Informal,Casa propia,3,161891,49187,34258,19372,12582.0,52227.0,2.3
+AMBA,Universitario,Informal,Alquilada,1,371076,106045,100218,11725,28340.0,141358.0,3.8
+AMBA,Terciario,Formal,Casa propia,1,197614,83061,56432,25215,5937.0,,3.3
+NEA,Terciario,Formal,Casa propia,6,1347415,443673,264617,84274,16846.0,570371.0,4.5
+NOA,Terciario,Desocupado,Asentamiento,3,56868,20774,0,1864,4708.0,446.0,3.7
+Patagonia,Terciario,Desocupado,Casa propia,4,66602,19273,0,1828,132.0,47274.0,2.5
+NOA,Primario,Formal,Alquilada,1,89158,36957,28268,0,,1858.0,1.5
+Patagonia,Universitario,Formal,Prestada,4,515628,147931,125431,45058,38345.0,156265.0,5.4
+AMBA,Universitario,Formal,Alquilada,6,605191,190804,171607,64252,27474.0,151077.0,4.6
+Patagonia,Sin instrucción,Cuentapropista,Casa propia,4,89808,22454,13258,0,8338.0,79956.0,0.1
+Pampeana,Universitario,Informal,Casa propia,2,150221,46878,20888,14283,4652.0,62623.0,4.2
+Patagonia,Primario,Formal,Casa propia,4,95273,22940,17008,5751,,46535.0,1.2
+Pampeana,Secundario,Cuentapropista,Alquilada,4,142537,57558,7551,6458,,75721.0,3.2
+Pampeana,Terciario,Formal,Casa propia,3,385452,171786,93610,28244,15739.0,,4.1
+AMBA,Primario,Formal,Casa propia,5,69468,22424,35120,4199,7145.0,28047.0,1.7
+Pampeana,Universitario,Formal,Asentamiento,4,433832,133767,124322,32092,15102.0,138594.0,4.2
+AMBA,Universitario,Informal,Alquilada,5,276170,65146,66296,6047,22107.0,129002.0,4.3
+AMBA,Secundario,Formal,Casa propia,4,360355,131246,83650,14726,,,2.8
+NEA,Sin instrucción,Formal,Alquilada,2,68422,29929,9289,1808,1610.0,55564.0,0.0
+NOA,Secundario,Informal,Alquilada,3,115900,26104,45777,8260,11231.0,14681.0,3.2
+NEA,Terciario,Informal,Casa propia,2,163588,46141,21234,21109,,69536.0,1.3
+NOA,Universitario,Cuentapropista,Casa propia,6,172663,73412,57818,17172,16250.0,,4.5
+NOA,Terciario,Informal,Prestada,4,202376,76579,73990,24672,,1536.0,3.3
+AMBA,Secundario,Formal,Alquilada,4,253460,62023,54462,24406,18568.0,75968.0,2.0
+NOA,Terciario,Informal,Alquilada,3,187194,74650,76811,13067,5232.0,18983.0,3.4
+Pampeana,Secundario,Desocupado,Casa propia,2,146135,43523,26649,7201,,33865.0,2.6
+AMBA,Terciario,Informal,Casa propia,4,115375,30681,26293,15557,3794.0,35408.0,1.6
+NOA,Primario,Formal,Casa propia,3,198100,78603,45698,6209,8885.0,74572.0,2.5
+AMBA,Terciario,Cuentapropista,Casa propia,2,268425,113575,51980,28059,20360.0,63930.0,3.2
+Cuyo,Secundario,Cuentapropista,Casa propia,4,167755,51999,30541,18162,6588.0,66952.0,4.5
+NEA,Universitario,Informal,Casa propia,1,232010,106343,58157,20238,17526.0,16315.0,4.7
+AMBA,Secundario,Cuentapropista,Prestada,3,165621,51017,45544,18564,7649.0,19056.0,2.3
+Patagonia,Terciario,Formal,Asentamiento,3,354003,139976,55498,14135,14815.0,145206.0,2.6
+AMBA,Universitario,Formal,Prestada,2,612004,206998,221080,54320,5407.0,,4.3
+AMBA,Primario,Informal,Prestada,7,58614,28594,6841,0,7055.0,14878.0,1.0
+AMBA,Universitario,Informal,Casa propia,2,405072,174544,83376,24323,37811.0,82054.0,5.6
+Cuyo,Terciario,Formal,Asentamiento,2,266905,66494,41077,16126,10072.0,143222.0,4.4
+NEA,Primario,Formal,Casa propia,2,82076,33911,21415,5105,,49295.0,1.4
+AMBA,Secundario,Formal,Asentamiento,4,207594,70818,22475,19016,3395.0,113826.0,4.0
+AMBA,Terciario,Formal,Asentamiento,3,538919,223910,193537,37989,36063.0,12436.0,1.5
+AMBA,Primario,Cuentapropista,Alquilada,4,106795,30136,22105,14238,3896.0,31792.0,1.4
+Pampeana,Secundario,Informal,Asentamiento,1,140305,45638,23316,11532,11826.0,27792.0,3.4
+Pampeana,Secundario,Formal,Alquilada,1,173468,65578,27330,7317,5682.0,81637.0,2.8
+AMBA,Terciario,Informal,Casa propia,3,3264964,1002946,949137,117783,250630.0,944528.0,5.6
+Pampeana,Sin instrucción,Cuentapropista,Casa propia,5,93353,34547,19972,0,7332.0,40594.0,1.5
+AMBA,Universitario,Formal,Alquilada,5,965329,254925,201100,59601,28705.0,,5.6
+AMBA,Universitario,Desocupado,Casa propia,1,109574,32772,16990,7546,5734.0,30941.0,4.1
+Pampeana,Universitario,Informal,Alquilada,3,4769881,1707108,925844,448286,70953.0,1604666.0,9.7
+AMBA,Terciario,Informal,Asentamiento,6,222037,68057,39362,21830,12971.0,56822.0,5.1
+AMBA,Primario,Informal,Casa propia,3,136304,49036,24075,925,12016.0,31297.0,1.4
+NEA,Terciario,Informal,Prestada,5,126384,28537,23521,1358,6174.0,44680.0,2.7
+AMBA,Sin instrucción,Informal,Asentamiento,2,77028,29282,34784,6420,4603.0,-13597.0,0.0
+Pampeana,Sin instrucción,Cuentapropista,Asentamiento,6,71688,16485,24077,8765,1922.0,4055.0,0.8
+AMBA,Secundario,Informal,Asentamiento,4,135957,32248,28303,3955,43.0,77319.0,3.2
+Pampeana,Secundario,Informal,Alquilada,6,129516,33818,39681,885,,53769.0,2.2
+AMBA,Terciario,Cuentapropista,Asentamiento,4,315601,118513,112146,29650,20093.0,41094.0,2.6
+Pampeana,Terciario,Formal,Prestada,3,324486,145025,79156,38746,12131.0,67053.0,4.5
+NOA,Secundario,Cuentapropista,Casa propia,6,149549,56616,26059,7252,,55929.0,1.3
+AMBA,Secundario,Informal,Alquilada,2,222522,102239,63888,12994,10387.0,21302.0,4.2
+NOA,Universitario,Formal,Alquilada,3,555440,146035,129313,33349,1858.0,278056.0,3.6
+Pampeana,Secundario,Informal,Casa propia,4,163535,58104,42220,10808,,65243.0,0.9
+AMBA,Secundario,Informal,Alquilada,4,120896,38925,29100,11038,,37841.0,1.0
+AMBA,Primario,Cuentapropista,Alquilada,6,96037,40283,37663,9986,3789.0,5559.0,0.0
+Patagonia,Terciario,Informal,Casa propia,2,326310,91328,115530,29144,26213.0,68440.0,3.0
+Patagonia,Terciario,Formal,Alquilada,5,546246,204283,126433,43050,21712.0,147736.0,3.0
+Pampeana,Primario,Formal,Prestada,4,223993,83971,48721,11671,15874.0,65679.0,2.1
+Cuyo,Primario,Formal,Alquilada,1,108122,42805,25867,11898,4684.0,30359.0,1.8
+Pampeana,Terciario,Cuentapropista,Casa propia,3,248299,81870,45768,19494,18292.0,71977.0,2.9
+AMBA,Terciario,Informal,Casa propia,2,131839,27003,31391,8945,6475.0,33513.0,6.1
+AMBA,Secundario,Formal,Casa propia,3,211209,78841,50068,16466,19493.0,15206.0,2.0
+AMBA,Universitario,Desocupado,Asentamiento,7,155748,44246,56289,12606,10614.0,45311.0,3.7
+AMBA,Primario,Formal,Casa propia,4,137713,66393,27825,5494,8567.0,,0.0
+NOA,Secundario,Desocupado,Alquilada,4,44717,21449,0,0,1894.0,28354.0,2.0
+Pampeana,Universitario,Informal,Casa propia,7,277669,75233,74923,8080,1700.0,,4.2
+NOA,Secundario,Formal,Casa propia,3,195204,88318,50014,8003,13715.0,18080.0,1.1
+Pampeana,Terciario,Informal,Prestada,5,138907,53259,37167,16743,0.0,20965.0,2.5
+Pampeana,Secundario,Formal,Alquilada,3,221593,59059,79684,22468,7850.0,,2.6
+AMBA,Secundario,Desocupado,Casa propia,5,20179,15000,2904,309,,-17363.0,1.5
+Pampeana,Universitario,Informal,Casa propia,2,277969,80908,60793,15168,14153.0,97693.0,3.2
+NEA,Secundario,Formal,Casa propia,6,105953,45446,29768,2786,7763.0,19804.0,2.9
+NEA,Universitario,Informal,Alquilada,2,3051289,1263969,736449,294386,142663.0,595668.0,6.2
+AMBA,Primario,Formal,Alquilada,3,200006,87696,53275,16026,,48585.0,0.0
+Patagonia,Primario,Formal,Casa propia,4,207050,59449,49844,7907,10975.0,53037.0,1.2
+NEA,Sin instrucción,Desocupado,Casa propia,3,25252,15000,3551,2657,4883.0,-4112.0,0.9
+NOA,Terciario,Formal,Casa propia,4,207262,86147,44676,12510,18692.0,64325.0,3.4
+AMBA,Secundario,Formal,Asentamiento,3,401335,100313,76472,49589,36986.0,,2.3
+NOA,Universitario,Informal,Asentamiento,4,318871,120518,31117,35111,25113.0,105368.0,3.7
+AMBA,Secundario,Informal,Casa propia,2,129105,51562,20135,12432,9350.0,37619.0,3.2
+AMBA,Universitario,Informal,Prestada,1,454672,122010,131292,53708,18745.0,116815.0,5.0
+NOA,Primario,Informal,Casa propia,2,49426,19478,16908,4365,0.0,7513.0,0.9
+NOA,Universitario,Cuentapropista,Casa propia,3,255483,110115,66969,10811,12649.0,63361.0,3.6
+AMBA,Terciario,Formal,Prestada,2,307921,129121,89075,23706,13404.0,45608.0,3.2
+Pampeana,Terciario,Formal,Asentamiento,3,286695,70494,54345,9770,,138576.0,2.4
+Pampeana,Universitario,Informal,Asentamiento,3,214136,62256,34438,10368,19067.0,93898.0,3.7
+AMBA,Terciario,Cuentapropista,Alquilada,1,422307,134801,83086,45186,19240.0,131250.0,2.8
+AMBA,Terciario,Formal,Casa propia,4,341984,139284,55239,16544,0.0,147829.0,3.1
+AMBA,Primario,Informal,Prestada,5,102707,21268,9910,10689,9197.0,40529.0,0.5
+AMBA,Sin instrucción,Formal,Casa propia,2,88993,34379,14463,8958,2483.0,41548.0,0.6
+Pampeana,Universitario,Formal,Alquilada,4,291895,75749,57197,28763,18416.0,100925.0,4.8
+NOA,Terciario,Informal,Casa propia,4,174283,66016,19751,6048,734.0,76993.0,2.6
+AMBA,Terciario,Formal,Alquilada,3,208251,72933,52370,12186,10725.0,57597.0,2.3
+Patagonia,Secundario,Formal,Casa propia,4,264497,96629,50314,14125,22719.0,85789.0,3.0
+Pampeana,Primario,Informal,Casa propia,3,55719,24440,15910,7522,811.0,-29166.0,1.1
+AMBA,Primario,Desocupado,Asentamiento,3,59901,20600,15637,3751,120.0,26663.0,0.5
+NEA,Terciario,Cuentapropista,Casa propia,1,279712,85672,52680,27366,10107.0,102350.0,4.5
+Pampeana,Secundario,Formal,Alquilada,4,222963,90658,44276,12087,,61724.0,1.7
+NOA,Primario,Formal,Casa propia,4,172513,76949,22974,13549,,56526.0,0.0
+Pampeana,Secundario,Formal,Casa propia,1,167567,46451,53206,22819,5546.0,45452.0,1.5
+NOA,Primario,Formal,Casa propia,3,138991,60315,23946,2970,592.0,21058.0,2.6
+NEA,Secundario,Formal,Casa propia,7,183475,69095,78359,15166,12220.0,-7280.0,1.9
+NEA,Secundario,Informal,Prestada,3,109109,26900,40410,5656,6524.0,34611.0,1.6
+Patagonia,Terciario,Formal,Casa propia,3,615208,197617,162940,44453,,171103.0,3.6
+AMBA,Secundario,Cuentapropista,Asentamiento,6,234328,60025,58492,16582,1092.0,86294.0,3.3
+Patagonia,Secundario,Formal,Alquilada,4,294429,114327,74824,21000,3833.0,91510.0,2.3
+AMBA,Sin instrucción,Informal,Casa propia,4,37495,15000,4301,1527,279.0,12542.0,0.6
+Pampeana,Primario,Cuentapropista,Alquilada,5,85472,19254,18202,6240,1385.0,53677.0,0.7
+Cuyo,Secundario,Informal,Alquilada,5,109301,47386,20512,14095,13321.0,32137.0,2.7
+AMBA,Secundario,Informal,Prestada,3,142537,63152,9711,21913,85.0,51851.0,2.4
+Cuyo,Terciario,Informal,Casa propia,3,125674,53688,35084,8193,2396.0,34646.0,2.6
+AMBA,Secundario,Formal,Casa propia,3,489846,176131,126385,40036,51428.0,86739.0,2.9
+NOA,Terciario,Cuentapropista,Prestada,6,1720890,755186,569568,82920,71445.0,255154.0,4.4
+AMBA,Universitario,Formal,Asentamiento,4,664159,237750,107735,37390,47928.0,236628.0,3.1
+NOA,Terciario,Informal,Prestada,1,164231,56214,44445,8449,0.0,50702.0,3.0
+AMBA,Sin instrucción,Cuentapropista,Casa propia,5,78444,30830,11809,2643,5582.0,9298.0,0.0
+Pampeana,Secundario,Cuentapropista,Prestada,3,128520,41375,25962,2658,9287.0,,2.8
+AMBA,Primario,Cuentapropista,Alquilada,1,128349,50321,33830,15112,5261.0,7183.0,0.9
+NOA,Primario,Informal,Alquilada,3,74418,28973,23493,7837,4144.0,,2.3
+Patagonia,Universitario,Formal,Casa propia,3,434064,170755,93415,48681,25122.0,,3.8
+AMBA,Primario,Desocupado,Alquilada,5,36480,15000,5182,3048,2748.0,24246.0,0.8
+Pampeana,Secundario,Cuentapropista,Casa propia,2,163218,50070,23871,19821,8082.0,98664.0,0.7
+Patagonia,Terciario,Informal,Casa propia,5,138230,40666,29666,11950,9484.0,39558.0,1.9
+AMBA,Terciario,Informal,Prestada,4,166552,62336,43171,14028,3175.0,52791.0,1.3
+Pampeana,Secundario,Formal,Casa propia,1,190794,69651,66723,5933,6792.0,23975.0,3.3
+Patagonia,Sin instrucción,Cuentapropista,Casa propia,7,167366,42871,51168,8621,5117.0,56630.0,0.0
+Patagonia,Secundario,Formal,Casa propia,3,319063,128514,75186,12549,12798.0,67856.0,3.7
+AMBA,Secundario,Formal,Asentamiento,2,159165,57986,45791,5806,11674.0,46431.0,0.0
+NOA,Primario,Informal,Alquilada,3,79693,24149,17789,7170,5306.0,19947.0,2.4
+Cuyo,Secundario,Formal,Casa propia,5,122208,29939,30237,6589,10749.0,13875.0,2.1
+AMBA,Sin instrucción,Cuentapropista,Prestada,3,115683,36103,13830,7521,2251.0,45703.0,0.5
+AMBA,Primario,Formal,Prestada,2,137522,68581,28187,9394,7537.0,50720.0,0.0
+Pampeana,Secundario,Cuentapropista,Casa propia,2,166263,54018,64358,17821,12240.0,23982.0,2.7
+Patagonia,Primario,Desocupado,Alquilada,2,409456,122697,63906,30739,21277.0,182373.0,0.9
+Cuyo,Secundario,Informal,Prestada,5,77074,23482,25776,7478,0.0,22221.0,0.9
+NEA,Terciario,Formal,Alquilada,3,176767,55007,17556,14743,0.0,86738.0,1.8
+Pampeana,Universitario,Informal,Casa propia,2,246781,63288,74012,9187,,92369.0,2.7
+Pampeana,Primario,Cuentapropista,Prestada,2,155666,49570,44844,11485,3134.0,50314.0,1.4
+Patagonia,Primario,Formal,Alquilada,3,114109,43147,26348,5884,9959.0,12321.0,0.3
+NOA,Primario,Formal,Casa propia,6,50487,15000,13923,1021,3523.0,28466.0,0.0
+AMBA,Terciario,Cuentapropista,Casa propia,3,255560,85351,68284,11591,21054.0,86107.0,3.5
+AMBA,Terciario,Formal,Casa propia,7,436131,139910,109795,33062,,122324.0,1.2
+AMBA,Sin instrucción,Cuentapropista,Casa propia,3,119836,46421,29493,5752,4397.0,25927.0,1.5
+Pampeana,Universitario,Formal,Prestada,2,438618,153435,55722,30029,21637.0,166666.0,6.1
+Pampeana,Primario,Informal,Casa propia,5,74246,19845,20195,4869,9369.0,46356.0,0.0
+AMBA,Secundario,Formal,Casa propia,3,335882,103973,109272,15015,,69563.0,3.5
+AMBA,Terciario,Cuentapropista,Alquilada,4,166982,65525,37160,20309,342.0,53446.0,3.4
+NEA,Universitario,Formal,Casa propia,7,358840,132647,47052,30008,14213.0,132076.0,3.6
+AMBA,Terciario,Cuentapropista,Asentamiento,1,309802,95845,66827,17484,12829.0,113163.0,2.7
+AMBA,Universitario,Cuentapropista,Casa propia,1,502219,200044,138468,28350,0.0,123886.0,4.9
+AMBA,Secundario,Informal,Casa propia,4,118944,38441,42861,14720,4785.0,3583.0,2.1
+AMBA,Universitario,Desocupado,Casa propia,2,116700,33045,11017,11093,8755.0,63889.0,1.2
+Patagonia,Primario,Informal,Casa propia,2,49772,27423,107,2752,0.0,4596.0,2.9
+Pampeana,Universitario,Informal,Casa propia,1,241316,72980,68743,30396,16298.0,59837.0,4.3
+AMBA,Secundario,Informal,Alquilada,1,158800,62878,25492,6786,9168.0,55835.0,2.1
+AMBA,Universitario,Cuentapropista,Asentamiento,5,326877,94940,94807,17264,13287.0,117869.0,3.3
+NOA,Secundario,Formal,Casa propia,2,180282,75678,70960,18942,2706.0,2847.0,2.0
+NOA,Terciario,Informal,Alquilada,3,183777,48110,50782,14229,12740.0,74118.0,4.3
+Pampeana,Secundario,Formal,Alquilada,4,194905,72762,41344,17964,15690.0,45027.0,2.5
+AMBA,Terciario,Formal,Prestada,3,388993,97065,122428,22230,24063.0,162082.0,3.7
+AMBA,Primario,Informal,Casa propia,1,69221,30460,21064,8193,,-16016.0,0.0
+NEA,Primario,Cuentapropista,Casa propia,5,85719,26155,18356,1834,2992.0,72816.0,0.6
+Patagonia,Primario,Cuentapropista,Casa propia,1,171127,69507,43370,17411,0.0,38944.0,1.1
+Pampeana,Primario,Formal,Alquilada,4,150943,46112,31801,18040,6407.0,51925.0,1.7
+AMBA,Universitario,Desocupado,Prestada,5,96864,51856,17665,6110,10440.0,1729.0,3.3
+AMBA,Primario,Formal,Casa propia,3,169421,47799,37938,16541,,41243.0,1.9
+AMBA,Universitario,Desocupado,Casa propia,3,143116,38654,34781,15586,12792.0,33377.0,2.6
+Pampeana,Secundario,Formal,Asentamiento,3,116780,42397,30621,8079,7368.0,22830.0,2.2
+Pampeana,Primario,Formal,Prestada,3,203881,52168,51806,3389,11662.0,87598.0,1.0
+Cuyo,Terciario,Informal,Asentamiento,5,159473,46584,36503,8287,18490.0,66426.0,1.5
+NOA,Terciario,Cuentapropista,Prestada,5,247817,102643,62911,17160,,66697.0,3.1
+AMBA,Secundario,Formal,Casa propia,3,340278,151482,127930,23124,32311.0,8553.0,1.8
+AMBA,Secundario,Informal,Alquilada,4,91844,27483,12950,425,4075.0,52677.0,3.5
+AMBA,Terciario,Informal,Alquilada,6,174268,70133,39192,13160,7011.0,18448.0,2.6
+AMBA,Primario,Formal,Casa propia,6,145265,62024,24386,12128,10005.0,11784.0,1.3
+Patagonia,Universitario,Formal,Alquilada,3,497997,145947,152581,34116,,102754.0,3.0
+AMBA,Universitario,Formal,Alquilada,3,932965,364339,273620,53359,47166.0,188882.0,5.0
+AMBA,Terciario,Cuentapropista,Casa propia,2,226280,82375,73058,12603,13944.0,16224.0,2.7
+AMBA,Primario,Informal,Prestada,6,78215,36512,17041,8309,4377.0,1629.0,0.1
+Cuyo,Terciario,Formal,Alquilada,2,321522,91052,103783,12818,27046.0,66299.0,6.0
+Pampeana,Primario,Informal,Asentamiento,4,58567,26716,10419,1272,1572.0,25904.0,0.5
+NEA,Sin instrucción,Cuentapropista,Casa propia,2,53995,24241,33584,594,6362.0,-4221.0,0.0
+AMBA,Secundario,Cuentapropista,Casa propia,2,206895,52229,35796,20929,9500.0,83931.0,3.2
+Patagonia,Secundario,Formal,Alquilada,3,244341,67362,82434,25239,10920.0,29887.0,1.5
+Cuyo,Universitario,Formal,Casa propia,7,441068,196524,107153,27980,18340.0,87514.0,4.6
+AMBA,Terciario,Formal,Alquilada,1,315331,136958,103187,31045,16124.0,32946.0,3.7
+Patagonia,Terciario,Formal,Prestada,4,266644,119558,99856,25048,24173.0,,3.4
+Pampeana,Secundario,Cuentapropista,Casa propia,1,188320,65110,40731,2532,,96960.0,4.5
+NEA,Secundario,Formal,Alquilada,2,292544,83091,51370,32913,26975.0,,1.6
+AMBA,Secundario,Formal,Alquilada,3,238915,71697,75955,29803,4620.0,59312.0,3.8
+Pampeana,Universitario,Formal,Casa propia,3,539237,166633,117981,24900,37353.0,188091.0,4.8
+AMBA,Sin instrucción,Cuentapropista,Asentamiento,2,102911,35975,11410,0,7457.0,36925.0,1.0
+Pampeana,Universitario,Formal,Prestada,3,344391,136492,74917,16670,27006.0,109641.0,4.4
+AMBA,Secundario,Informal,Alquilada,1,230984,78254,50389,7024,15812.0,,4.2
+Patagonia,Secundario,Formal,Alquilada,3,286896,81972,48097,28568,14290.0,123427.0,2.0
+Patagonia,Terciario,Cuentapropista,Alquilada,6,542505,139181,100175,38690,48435.0,207171.0,4.0
+AMBA,Secundario,Informal,Asentamiento,6,111239,22869,13418,16461,10395.0,29482.0,3.4
+Pampeana,Universitario,Informal,Alquilada,3,507247,171891,118240,48772,5995.0,156344.0,3.7
+NEA,Universitario,Informal,Alquilada,4,296778,132016,105608,21619,23768.0,9223.0,5.0
+NOA,Secundario,Formal,Prestada,6,209085,77299,67829,17782,7015.0,42037.0,2.2
+AMBA,Secundario,Formal,Casa propia,1,254881,112693,79613,4381,6914.0,40218.0,1.1
+Patagonia,Secundario,Formal,Prestada,5,250601,82934,53205,13922,20104.0,,0.9
+AMBA,Universitario,Formal,Casa propia,6,794765,255334,254632,74775,36530.0,191160.0,4.5
+Cuyo,Primario,Formal,Casa propia,1,135174,40567,43215,7914,,4695.0,2.0
+NEA,Terciario,Formal,Casa propia,2,148985,63730,24660,11035,3839.0,,0.9
+NOA,Terciario,Cuentapropista,Asentamiento,6,156005,56515,48168,18079,,49593.0,3.2
+Pampeana,Terciario,Formal,Prestada,3,317779,91049,93574,29526,14922.0,66754.0,4.1
+Patagonia,Primario,Desocupado,Alquilada,1,41155,15000,12168,0,0.0,8286.0,0.0
+Pampeana,Terciario,Formal,Alquilada,2,330344,119071,93086,31173,27121.0,69020.0,2.6
+Pampeana,Universitario,Informal,Alquilada,3,423804,159690,73834,42549,14860.0,131983.0,4.7
+AMBA,Primario,Formal,Asentamiento,4,88216,39220,10945,7418,,21694.0,1.8
+Pampeana,Primario,Formal,Alquilada,4,150339,49776,44358,1631,1974.0,53686.0,2.6
+Pampeana,Universitario,Formal,Casa propia,7,292125,103443,55372,33446,,127547.0,3.4
+AMBA,Primario,Informal,Casa propia,2,116052,35032,31808,2366,9691.0,63864.0,0.1
+Pampeana,Universitario,Informal,Prestada,3,285786,71159,87984,12325,7139.0,,5.6
+Patagonia,Secundario,Cuentapropista,Alquilada,3,242424,69527,74989,20031,16555.0,77085.0,1.6
+AMBA,Primario,Informal,Casa propia,3,71305,15000,21902,2206,,31628.0,1.4
+AMBA,Universitario,Cuentapropista,Casa propia,2,644266,250931,210067,28161,41529.0,113285.0,6.6
+NEA,Secundario,Informal,Prestada,7,137780,53953,55448,3587,,462.0,2.9
+AMBA,Secundario,Formal,Casa propia,5,283058,79336,90250,14142,4712.0,101389.0,3.1
+Pampeana,Secundario,Formal,Alquilada,3,207768,96653,47621,20584,6657.0,31662.0,3.5
+Cuyo,Secundario,Formal,Asentamiento,4,231337,62718,64062,15186,22492.0,61186.0,2.8
+Pampeana,Primario,Formal,Casa propia,2,116483,35886,28310,10836,8571.0,21374.0,1.7
+AMBA,Secundario,Informal,Casa propia,3,179156,47460,33663,22091,,80785.0,1.9
+Pampeana,Universitario,Informal,Alquilada,4,482231,159527,116631,16075,,146591.0,5.4
+Pampeana,Secundario,Formal,Prestada,3,297812,91612,35344,38836,,108166.0,2.8
+Patagonia,Terciario,Formal,Alquilada,7,337435,124799,79633,40846,1987.0,101839.0,1.7
+Cuyo,Secundario,Desocupado,Asentamiento,4,45138,20521,24992,2901,1605.0,-7046.0,2.3
+NOA,Terciario,Cuentapropista,Casa propia,3,147984,67952,33132,2672,9512.0,32955.0,0.8
+NEA,Primario,Cuentapropista,Alquilada,5,108286,25932,52367,9200,4942.0,31338.0,1.7
+NEA,Universitario,Cuentapropista,Alquilada,2,365402,102765,105897,34586,28393.0,113467.0,3.8
+NEA,Secundario,Formal,Prestada,3,98612,25140,13234,10435,4980.0,12905.0,4.0
+NEA,Primario,Informal,Casa propia,3,47424,22559,13207,77,1724.0,7925.0,1.3
+Patagonia,Primario,Cuentapropista,Prestada,3,130896,38282,37061,15115,11955.0,,1.9
+NEA,Primario,Formal,Alquilada,5,105258,42441,36419,0,7358.0,13238.0,0.0
+Pampeana,Secundario,Formal,Casa propia,3,150270,45643,58351,11173,8911.0,26091.0,2.9
+AMBA,Secundario,Informal,Casa propia,5,155755,62023,30932,13574,372.0,43531.0,1.6
+Pampeana,Universitario,Formal,Prestada,4,543494,199828,158932,55767,10339.0,103249.0,5.4
+AMBA,Secundario,Formal,Casa propia,3,224148,62097,30510,15670,15966.0,,1.2
+NEA,Primario,Cuentapropista,Casa propia,5,72698,23763,19052,8947,3513.0,28342.0,1.0
+NEA,Terciario,Formal,Casa propia,2,368183,115897,96599,43895,28242.0,106572.0,2.1
+NOA,Terciario,Formal,Prestada,2,452724,173512,138376,29008,46161.0,34760.0,3.5
+NEA,Primario,Desocupado,Alquilada,3,20759,15000,0,5189,155.0,-4499.0,2.8
+Cuyo,Primario,Informal,Prestada,2,62916,15207,19901,10236,2110.0,26441.0,1.6
+NEA,Sin instrucción,Formal,Casa propia,1,88994,47511,25149,2903,10512.0,2430.0,0.1
+NOA,Terciario,Informal,Alquilada,4,144352,39539,42226,14643,954.0,30285.0,0.5
+NEA,Terciario,Formal,Alquilada,3,257791,114696,67409,26235,895.0,41389.0,2.6
+Pampeana,Secundario,Cuentapropista,Prestada,3,213483,80908,36094,18330,1597.0,81086.0,2.7
+Cuyo,Universitario,Informal,Asentamiento,6,149219,51536,57095,12461,,22720.0,3.3
+Pampeana,Universitario,Cuentapropista,Casa propia,4,592560,169275,145460,26169,49454.0,201482.0,5.8
+Pampeana,Secundario,Informal,Alquilada,5,128777,27536,39402,6010,5428.0,50114.0,2.2
+AMBA,Universitario,Cuentapropista,Casa propia,2,387930,149616,123848,29309,7194.0,70099.0,5.2
+NOA,Primario,Cuentapropista,Alquilada,4,91011,33921,23946,7788,13219.0,24386.0,1.1
+AMBA,Primario,Cuentapropista,Casa propia,5,123995,42312,27954,4343,,42224.0,0.7
+Patagonia,Secundario,Informal,Casa propia,4,93697,39619,8626,9229,6726.0,14415.0,1.6
+NOA,Primario,Desocupado,Casa propia,4,38522,19327,16594,0,2319.0,33727.0,0.0
+AMBA,Secundario,Formal,Alquilada,3,240564,65685,31764,16533,1845.0,,3.4
+AMBA,Universitario,Formal,Casa propia,1,633200,190340,167551,53650,57605.0,,4.0
+NOA,Sin instrucción,Cuentapropista,Alquilada,3,82909,35939,34750,5975,0.0,25066.0,0.6
+Cuyo,Primario,Informal,Casa propia,3,55651,16182,1334,0,,53375.0,0.3
+AMBA,Secundario,Cuentapropista,Casa propia,5,216809,53821,62996,17032,,81122.0,1.2
+AMBA,Universitario,Informal,Prestada,2,298449,119885,67886,27391,3471.0,,4.5
+NEA,Secundario,Formal,Casa propia,6,222776,65693,34693,23560,,131226.0,1.5
+Cuyo,Secundario,Formal,Casa propia,6,102694,44613,37109,15648,0.0,-9118.0,1.7
+Pampeana,Sin instrucción,Informal,Alquilada,2,54360,27587,0,790,0.0,27982.0,0.0
+Pampeana,Primario,Informal,Casa propia,3,70103,16557,23106,1036,,56166.0,0.4
+Patagonia,Universitario,Informal,Casa propia,5,418385,180273,134551,40337,20610.0,75338.0,4.2
+Pampeana,Universitario,Formal,Casa propia,6,580326,178719,125199,48630,21526.0,200761.0,4.0
+Pampeana,Sin instrucción,Formal,Asentamiento,3,77638,25463,34627,10403,3105.0,34192.0,0.9
+AMBA,Universitario,Formal,Alquilada,3,447750,151687,168732,43219,,51118.0,4.3
+NOA,Terciario,Informal,Alquilada,3,155472,40653,35548,16516,17710.0,67473.0,6.1
+Cuyo,Universitario,Informal,Alquilada,4,202194,58686,44856,26900,,68213.0,4.3
+AMBA,Secundario,Formal,Casa propia,2,305877,89913,76588,27313,28464.0,88181.0,0.6
+AMBA,Secundario,Informal,Casa propia,4,124068,51317,35128,3114,2165.0,65485.0,1.9
+Pampeana,Secundario,Cuentapropista,Prestada,1,71491,29307,11108,10575,2003.0,,2.0
+Pampeana,Terciario,Cuentapropista,Casa propia,1,237710,78476,62988,10955,17133.0,96692.0,2.5
+NEA,Primario,Formal,Casa propia,3,84361,36897,0,7961,4102.0,66311.0,1.0
+Pampeana,Sin instrucción,Formal,Casa propia,3,58848,15000,23963,6302,5809.0,28220.0,0.0
+Pampeana,Secundario,Cuentapropista,Casa propia,3,117971,32720,27969,7943,6952.0,41311.0,2.5
+Cuyo,Terciario,Informal,Asentamiento,3,182286,59797,42721,10040,19480.0,53915.0,1.1
+Cuyo,Primario,Informal,Casa propia,3,639910,178611,127881,49383,50199.0,,2.7
+Pampeana,Terciario,Informal,Alquilada,2,215308,90753,67473,11414,8741.0,30138.0,1.5
+NOA,Universitario,Cuentapropista,Casa propia,3,272751,107050,89051,16039,21125.0,48797.0,3.7
+Pampeana,Primario,Informal,Asentamiento,7,96312,22141,41054,6213,625.0,4878.0,0.2
+Cuyo,Terciario,Formal,Casa propia,3,263492,82316,58399,24951,2259.0,,3.4
+Pampeana,Secundario,Desocupado,Casa propia,3,36535,15000,8165,1809,2792.0,,1.9
+NEA,Universitario,Cuentapropista,Alquilada,4,225768,76225,36980,14642,7961.0,87645.0,4.1
+AMBA,Primario,Formal,Alquilada,7,93651,18828,34897,5202,0.0,,2.0
+Patagonia,Terciario,Informal,Casa propia,2,217953,96410,44653,27211,14157.0,44020.0,3.8
+AMBA,Universitario,Cuentapropista,Casa propia,4,460212,194028,131462,36927,15757.0,77423.0,4.2
+AMBA,Universitario,Formal,Casa propia,4,538560,173996,103704,40744,32805.0,184985.0,4.7
+Pampeana,Terciario,Informal,Casa propia,4,173006,59483,49913,18157,0.0,47956.0,5.0
+NOA,Secundario,Informal,Casa propia,1,77797,27723,0,8522,1397.0,9390.0,2.9
+Pampeana,Terciario,Cuentapropista,Alquilada,4,319249,115344,107821,23864,27955.0,58470.0,2.9
+Patagonia,Universitario,Formal,Casa propia,1,424359,126796,54798,49750,24497.0,166742.0,5.4
+AMBA,Secundario,Cuentapropista,Casa propia,4,237408,87347,58907,11156,24236.0,70491.0,2.7
+Pampeana,Sin instrucción,Cuentapropista,Alquilada,4,56265,24981,26346,3866,8904.0,-2009.0,0.0
+NEA,Universitario,Formal,Asentamiento,2,321727,122584,78754,15016,13972.0,88963.0,3.8
+Cuyo,Terciario,Formal,Alquilada,5,194750,71316,67418,5395,4427.0,49157.0,1.6
+Pampeana,Terciario,Formal,Casa propia,1,289076,120502,60687,23460,28798.0,58643.0,0.9
+Patagonia,Primario,Formal,Casa propia,5,241182,106563,45940,13723,,71011.0,0.2
+Patagonia,Terciario,Formal,Asentamiento,3,490264,211180,137169,44703,29954.0,68198.0,3.5
+Pampeana,Secundario,Cuentapropista,Casa propia,2,229336,60873,65339,22244,16685.0,,2.4
+AMBA,Terciario,Formal,Casa propia,2,432276,154985,158666,46405,,17257.0,1.9
+Patagonia,Primario,Cuentapropista,Alquilada,6,102334,37785,7169,7542,3984.0,45148.0,0.0
+Cuyo,Terciario,Formal,Alquilada,1,273832,109537,79414,15879,14024.0,76793.0,4.6
+NEA,Universitario,Formal,Alquilada,2,319058,108383,79601,29016,26283.0,82207.0,4.1
+NEA,Sin instrucción,Formal,Casa propia,3,114477,35182,23846,1992,7063.0,30179.0,1.7
+Cuyo,Universitario,Formal,Casa propia,4,316771,141472,68245,21240,,71207.0,5.5
+NEA,Secundario,Formal,Asentamiento,3,225934,86263,55102,18950,9636.0,44861.0,3.0
+NEA,Universitario,Informal,Casa propia,2,307453,84029,54489,19624,6005.0,158300.0,4.0
+Cuyo,Terciario,Formal,Alquilada,2,523552,183712,109620,44971,13874.0,,3.1
+NEA,Secundario,Informal,Alquilada,2,89142,31788,16654,7632,9721.0,-28467.0,2.8
+AMBA,Terciario,Formal,Alquilada,2,457656,143982,115718,42702,0.0,154033.0,3.2
+NOA,Universitario,Formal,Casa propia,3,819440,198807,239974,99830,16804.0,266240.0,4.0
+Pampeana,Secundario,Formal,Casa propia,4,179466,60572,44936,6040,8473.0,,0.1
+Pampeana,Secundario,Desocupado,Alquilada,2,28393,15000,0,5605,1968.0,-37.0,2.0
+AMBA,Terciario,Formal,Prestada,3,210275,76897,26392,22386,8290.0,96275.0,4.2
+NEA,Universitario,Formal,Asentamiento,3,499320,190421,155971,34514,11333.0,113214.0,5.5
+Pampeana,Terciario,Formal,Casa propia,7,190980,80406,72766,5901,4446.0,19967.0,3.1
+AMBA,Terciario,Formal,Casa propia,6,330539,98687,77519,27392,8875.0,115256.0,2.3
+AMBA,Secundario,Informal,Asentamiento,5,158030,44914,52200,12719,6066.0,38713.0,3.1
+AMBA,Universitario,Informal,Alquilada,2,341874,142604,113477,15028,13044.0,61950.0,4.0
+Cuyo,Primario,Formal,Prestada,1,1081877,306278,280000,113105,,261530.0,1.8
+NEA,Secundario,Formal,Casa propia,3,184716,80765,64945,18546,8790.0,1624.0,0.8
+AMBA,Sin instrucción,Informal,Alquilada,2,90407,41046,20631,6001,4005.0,34255.0,2.2
+AMBA,Secundario,Informal,Alquilada,3,104157,33336,15884,8679,8779.0,,2.9
+Patagonia,Secundario,Informal,Alquilada,5,128551,57736,27592,14552,,10022.0,3.0
+Patagonia,Secundario,Desocupado,Casa propia,5,44612,15000,9524,6658,809.0,491.0,1.2
+Cuyo,Terciario,Formal,Casa propia,5,387924,118645,108296,28016,11540.0,,3.4
+AMBA,Secundario,Formal,Alquilada,3,311285,120393,107548,15621,,42263.0,2.3
+NEA,Secundario,Informal,Casa propia,4,115412,31763,23218,12050,6651.0,49394.0,2.9
+Pampeana,Primario,Formal,Alquilada,3,205380,87878,37395,11033,,38881.0,2.4
+Pampeana,Secundario,Informal,Asentamiento,1,88488,15000,28182,5321,672.0,22364.0,0.7
+Pampeana,Primario,Informal,Casa propia,4,138516,43009,48212,8335,3236.0,39391.0,0.0
+Cuyo,Primario,Formal,Prestada,1,204675,69823,39389,10065,10368.0,73569.0,1.7
+NEA,Terciario,Informal,Casa propia,3,195519,74913,44180,6956,,61905.0,2.5
+Patagonia,Terciario,Informal,Alquilada,3,418132,127580,125258,35130,38028.0,,4.1
+Cuyo,Terciario,Informal,Asentamiento,4,107315,34373,38426,4564,556.0,24026.0,2.6
+Patagonia,Secundario,Informal,Casa propia,4,134571,54437,19447,9645,4602.0,51674.0,0.9
+NEA,Secundario,Informal,Casa propia,3,80846,21468,11340,3342,2156.0,36708.0,0.3
+Pampeana,Universitario,Formal,Casa propia,5,625793,263518,210188,58820,5743.0,97029.0,4.9
+Pampeana,Secundario,Cuentapropista,Casa propia,2,124789,46304,38562,13752,,24397.0,2.7
+NOA,Secundario,Formal,Alquilada,3,222311,87797,55716,20546,1323.0,47571.0,3.2
+Pampeana,Sin instrucción,Formal,Asentamiento,4,144823,63342,30657,13143,,19920.0,0.5
+NEA,Secundario,Informal,Casa propia,4,124176,45947,16954,7049,12066.0,46190.0,0.0
+NOA,Secundario,Desocupado,Casa propia,7,40179,15000,0,3172,5739.0,33701.0,2.6
+AMBA,Secundario,Formal,Casa propia,2,176660,77436,30654,644,8625.0,72820.0,0.8
+Pampeana,Secundario,Informal,Alquilada,4,724354,259139,181399,62847,43573.0,163251.0,1.0
+AMBA,Secundario,Formal,Casa propia,4,345666,154641,71941,38402,28254.0,39860.0,0.4
+Cuyo,Terciario,Informal,Alquilada,6,222863,76449,57706,22267,3169.0,52915.0,1.0
+AMBA,Terciario,Formal,Alquilada,2,365299,101478,75665,18880,26322.0,134006.0,3.5
+AMBA,Universitario,Formal,Alquilada,4,489074,162812,119073,27112,20519.0,132308.0,3.5
+Patagonia,Terciario,Cuentapropista,Casa propia,4,181072,83508,39841,14939,6201.0,48434.0,1.5
+Pampeana,Universitario,Formal,Alquilada,2,365520,108529,61470,14762,12693.0,,4.1
+Pampeana,Sin instrucción,Formal,Casa propia,3,170336,72025,35487,25072,0.0,44683.0,0.0
+Pampeana,Primario,Desocupado,Casa propia,3,20431,15000,13178,983,3611.0,-17077.0,1.8
+AMBA,Sin instrucción,Informal,Prestada,4,65203,19821,28540,6654,0.0,9844.0,1.5
+AMBA,Terciario,Informal,Alquilada,5,291680,73263,52548,13923,8004.0,133664.0,2.9
+AMBA,Universitario,Formal,Casa propia,4,380471,151948,107488,34277,3144.0,83190.0,5.5
+NEA,Primario,Formal,Casa propia,4,121764,29745,16808,14921,7400.0,39821.0,2.3
+AMBA,Universitario,Formal,Casa propia,3,734552,296096,249918,72231,35872.0,80122.0,4.6
+AMBA,Primario,Cuentapropista,Casa propia,1,125871,47444,22066,3024,8694.0,66501.0,2.7
+NEA,Universitario,Formal,Casa propia,2,953323,327472,282222,29649,54598.0,267191.0,4.2
+NOA,Secundario,Formal,Casa propia,3,107366,34021,15169,7279,,49256.0,0.2
+AMBA,Primario,Formal,Alquilada,3,217618,72334,41646,3528,6574.0,73740.0,0.0
+Patagonia,Secundario,Cuentapropista,Alquilada,2,202951,65792,60056,20346,14351.0,50915.0,1.6
+AMBA,Secundario,Desocupado,Alquilada,3,62399,19365,31997,8266,6087.0,6651.0,2.6
+NEA,Secundario,Cuentapropista,Alquilada,3,156165,46865,32239,13556,931.0,66598.0,1.0
+AMBA,Secundario,Informal,Casa propia,2,111235,49381,13109,16635,7474.0,27850.0,1.5
+Cuyo,Universitario,Formal,Asentamiento,3,485857,192266,142234,12365,8731.0,128158.0,3.0
+NEA,Secundario,Informal,Prestada,2,57729,32777,31280,0,2862.0,551.0,1.4
+NEA,Secundario,Informal,Prestada,6,120797,40912,24036,7394,5160.0,64250.0,3.5
+AMBA,Terciario,Informal,Prestada,5,235774,91489,85704,13177,10437.0,39925.0,3.5
+AMBA,Terciario,Formal,Asentamiento,4,447653,133162,78627,46620,31309.0,143359.0,2.8
+Pampeana,Secundario,Formal,Alquilada,2,296698,87559,47396,13219,18041.0,117055.0,3.6
+Pampeana,Secundario,Informal,Casa propia,5,140691,57513,41914,19290,9383.0,23485.0,2.2
+AMBA,Primario,Formal,Alquilada,5,165596,68368,43957,11370,10924.0,16523.0,1.1
+Pampeana,Primario,Formal,Alquilada,4,1458046,525770,286672,169744,41858.0,,3.8
+AMBA,Terciario,Formal,Alquilada,2,298496,115113,79984,9284,11767.0,77165.0,2.8
+Pampeana,Primario,Informal,Alquilada,4,119921,19761,31679,826,4665.0,46906.0,1.9
+Pampeana,Secundario,Formal,Casa propia,5,332347,125539,53144,13596,10986.0,141566.0,3.3
+Pampeana,Terciario,Cuentapropista,Casa propia,4,247662,91398,79320,18740,22614.0,46192.0,3.0
+Pampeana,Primario,Informal,Asentamiento,4,85167,24215,31411,3287,6044.0,-125.0,0.0
+AMBA,Secundario,Informal,Alquilada,3,105658,37403,21291,16561,,37625.0,2.1
+Pampeana,Secundario,Formal,Alquilada,3,307079,82030,90581,20638,3881.0,114978.0,3.5
+Cuyo,Universitario,Desocupado,Casa propia,1,115379,41298,46250,6148,3245.0,31000.0,4.6
+AMBA,Secundario,Formal,Casa propia,4,425368,182949,111947,31496,11573.0,89905.0,4.2
+Pampeana,Universitario,Formal,Prestada,1,387253,142547,102904,13750,8728.0,140727.0,3.6
+Pampeana,Secundario,Formal,Alquilada,3,192843,54256,62512,17905,11826.0,44444.0,3.0
+AMBA,Sin instrucción,Formal,Prestada,2,113193,27844,39258,13726,,18916.0,0.0
+Patagonia,Terciario,Informal,Alquilada,3,297438,68101,65041,30703,,96312.0,3.4
+NEA,Universitario,Formal,Alquilada,2,377939,157950,109746,37919,,47445.0,5.2
+AMBA,Terciario,Cuentapropista,Casa propia,4,225184,79222,47315,26699,7231.0,49350.0,4.0
+Patagonia,Universitario,Formal,Alquilada,5,820687,287811,180844,28822,39337.0,287149.0,4.7
+Pampeana,Universitario,Cuentapropista,Casa propia,2,495369,150146,86392,21178,40947.0,192670.0,4.0
+NEA,Primario,Formal,Casa propia,2,87513,34889,24404,1449,6170.0,25561.0,0.0
+AMBA,Primario,Informal,Alquilada,2,138762,36391,36877,8443,8104.0,30808.0,0.7
+Patagonia,Terciario,Cuentapropista,Asentamiento,5,472340,129745,101852,16627,21568.0,189713.0,2.1
+Pampeana,Secundario,Informal,Casa propia,3,131180,45725,47157,11638,8485.0,5087.0,1.8
+AMBA,Universitario,Formal,Prestada,3,567798,176353,177440,50787,6444.0,189313.0,2.5
+AMBA,Universitario,Informal,Casa propia,2,381880,117847,107819,44671,21743.0,87315.0,2.8
+NEA,Secundario,Informal,Casa propia,4,77838,39068,23335,9099,5946.0,-605.0,3.0
+Pampeana,Primario,Formal,Casa propia,5,145303,44375,34470,22008,5858.0,,1.7
+Cuyo,Terciario,Informal,Casa propia,5,92484,38033,35043,1896,6420.0,34384.0,2.6
+AMBA,Secundario,Formal,Alquilada,4,309057,109042,66085,12142,4691.0,92897.0,2.5
+NOA,Universitario,Formal,Casa propia,1,258702,67834,74893,17799,1288.0,95990.0,4.1
+Patagonia,Secundario,Informal,Alquilada,2,247263,63658,22917,22532,921.0,112894.0,2.8
+AMBA,Terciario,Informal,Asentamiento,1,195271,80636,21971,12695,0.0,,3.4
+AMBA,Primario,Formal,Casa propia,2,148654,56534,36101,7998,0.0,37007.0,0.0
+Pampeana,Terciario,Formal,Prestada,2,278325,110550,64180,14331,4050.0,91396.0,0.7
+AMBA,Secundario,Formal,Casa propia,2,217931,58166,36379,15828,4127.0,91464.0,1.3
+NEA,Secundario,Formal,Alquilada,3,264461,89619,78177,23930,,73026.0,2.2
+AMBA,Primario,Cuentapropista,Casa propia,6,59452,16609,3656,7221,6948.0,26615.0,1.8
+NEA,Terciario,Formal,Casa propia,4,394278,138727,57922,34370,16139.0,,3.5
+Pampeana,Universitario,Formal,Casa propia,5,557790,243467,97273,32452,6664.0,196908.0,4.8
+AMBA,Primario,Formal,Casa propia,4,110279,49195,53403,9391,9555.0,-20206.0,0.0
+NEA,Primario,Informal,Casa propia,2,48671,15000,28843,4704,258.0,5576.0,0.8
+Cuyo,Sin instrucción,Formal,Alquilada,4,142866,56600,22887,10899,9984.0,15450.0,0.2
+AMBA,Terciario,Cuentapropista,Prestada,2,220336,88200,71468,21069,5856.0,35225.0,2.3
+AMBA,Terciario,Formal,Prestada,4,261495,99895,49603,24755,13621.0,69763.0,2.1
+Patagonia,Secundario,Cuentapropista,Alquilada,3,300666,74855,65123,32122,22809.0,88023.0,2.2
+AMBA,Primario,Cuentapropista,Casa propia,7,138806,56802,39690,12423,9677.0,26191.0,1.6
+Pampeana,Secundario,Cuentapropista,Casa propia,2,129061,41458,37741,12623,4553.0,21602.0,1.3
+Cuyo,Secundario,Cuentapropista,Casa propia,2,164234,53244,41506,16272,11125.0,68070.0,2.0
+Pampeana,Secundario,Formal,Casa propia,6,158785,52762,43773,12392,15260.0,,3.6
+NEA,Universitario,Formal,Alquilada,1,560977,214865,126732,40487,29203.0,153414.0,3.8
+AMBA,Primario,Formal,Alquilada,4,217791,65257,62984,13234,10860.0,66096.0,1.1
+Patagonia,Terciario,Formal,Casa propia,4,492678,130534,83626,43292,31858.0,199155.0,3.3
+Pampeana,Secundario,Formal,Casa propia,5,240754,85898,44401,26547,19358.0,56611.0,2.1
+Pampeana,Secundario,Formal,Prestada,7,366367,153992,87354,17768,,108238.0,4.1
+AMBA,Terciario,Formal,Prestada,7,369565,144801,126993,37058,37690.0,38956.0,3.6
+NEA,Terciario,Formal,Casa propia,1,188558,63263,38179,11237,1094.0,49702.0,1.5
+Patagonia,Universitario,Informal,Asentamiento,5,420551,192678,112739,14964,19861.0,68219.0,5.7
+Pampeana,Primario,Formal,Asentamiento,4,269247,107843,46148,33594,21200.0,,1.4
+Patagonia,Primario,Informal,Casa propia,4,77442,16589,6121,8379,2070.0,27824.0,0.5
+NOA,Terciario,Cuentapropista,Casa propia,2,195705,53780,30142,3765,,102535.0,4.4
+AMBA,Secundario,Formal,Alquilada,4,269218,101691,54006,21410,,97050.0,1.6
+AMBA,Secundario,Informal,Asentamiento,7,136377,49385,19791,10203,6605.0,66370.0,3.9
+Patagonia,Primario,Informal,Prestada,6,78200,44017,8893,13184,0.0,21182.0,1.0
+AMBA,Primario,Formal,Casa propia,3,221779,86814,69346,24016,7940.0,43955.0,2.1
+AMBA,Universitario,Formal,Casa propia,1,1111981,409796,181340,125352,41053.0,333263.0,8.1
